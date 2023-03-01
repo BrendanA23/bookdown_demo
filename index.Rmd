@@ -1,0 +1,13 @@
+---
+title: "Bookdown"
+author: "Brendan"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+description: "cats are cool"
+---
+
+# da intro {-}
+da intro text
+
